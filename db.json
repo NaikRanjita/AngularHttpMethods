@@ -1,5 +1,21 @@
 [{
 "id":1,
-"name":Ranjita,
+"name":"Ranjita",
+  "age":26
 
-}]
+},
+ {
+ "id":2,
+ "name":"Sagar",
+ "age":20
+ },
+ {
+   "id":3,
+   "name":"Vinayak",
+   "age":32
+ },
+ {
+ "id":4,
+ "name":"Ashwini",
+ "age":22}
+]
